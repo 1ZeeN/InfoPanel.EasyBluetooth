@@ -42,7 +42,7 @@ Example:
 
 ```ini
 [General]
-ApiUrl=http://localhost:18080/api/v1/status
+Port=18080
 UpdateIntervalSeconds=2
 MaxDevices=10
 ```
