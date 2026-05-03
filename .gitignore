@@ -1,0 +1,11 @@
+bin/
+obj/
+publish/
+*.log
+*.zip
+*.user
+*.suo
+.vs/
+libs/
+files/
+InfoPanel.EasyBT/*.json
