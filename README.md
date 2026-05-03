@@ -2,9 +2,8 @@
 
 Plugin for **InfoPanel** that displays Battery and Status from mouses using [Easy Bluetooth](https://easybluetooth.net/index.html) Unified Standard Data API:
 
-```
 Easy Bluetooth have a "VIP" version, the "Free" version will just show one device, for more devices you will need to buy the "VIP" version!
-```
+
 
 ---
 
@@ -25,12 +24,10 @@ Easy Bluetooth have a "VIP" version, the "Free" version will just show one devic
 1. Download EasyBluetooth: [Download](https://easybluetooth.net/download.html)
 2. Follow the initial configurations
 3. Enable Unified Standard Data API in Settings > Advanced Features
-    NOTE: You can change de PORT in the `Plugin Config File`, default is 18080
 4. Download the latest release `.zip` of the plugin
 5. Open **InfoPanel**
 6. Import the plugin
 7. Done ✅
-
 ---
 
 ## ⚙️ Configuration
